@@ -1,6 +1,6 @@
 Meridian University — Official Website
 A fully responsive, multi-page university website built with pure HTML5, CSS3, and Vanilla JavaScript. No frameworks, no dependencies — just clean, fast, and elegant web code with a premium navy & gold academic design.
-Live Site: https://your-username.github.io/meridian-university/
+Live Site: https://devavarninemurugesh.github.io/meridian-university/
 
 Preview
 
